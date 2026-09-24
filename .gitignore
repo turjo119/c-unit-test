@@ -1,0 +1,8 @@
+# C/C++ Output
+.o
+.obj
+.out
+.elf
+
+#CppUTest framework
+cpputest/
